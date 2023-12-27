@@ -1,0 +1,121 @@
+phrase,num,age,sex,race
+librarian,4,NA,NA,NA
+librarian,2,NA,NA,NA
+librarian,3,39,male,indian/middle eastern
+librarian,1,NA,NA,NA
+hairstylist,4,NA,NA,NA
+hairstylist,2,NA,NA,NA
+hairstylist,3,NA,NA,NA
+hairstylist,1,NA,NA,NA
+nurse,4,NA,NA,NA
+nurse,2,NA,NA,NA
+nurse,3,NA,NA,NA
+nurse,1,NA,NA,NA
+soldier,4,25,male,black
+soldier,2,28,male,white
+soldier,3,31,male,black
+soldier,1,23,male,white
+rapper,4,33,male,asian
+rapper,2,NA,NA,NA
+rapper,3,NA,NA,NA
+rapper,1,NA,NA,NA
+secretary,4,NA,NA,NA
+secretary,2,NA,NA,NA
+secretary,3,NA,NA,NA
+secretary,1,NA,NA,NA
+receptionist,4,NA,NA,NA
+receptionist,2,NA,NA,NA
+receptionist,3,NA,NA,NA
+receptionist,1,26,male,hispanic
+farmer,4,NA,NA,NA
+farmer,2,27,male,asian
+farmer,3,NA,NA,NA
+farmer,1,NA,NA,NA
+surgeon,4,NA,NA,NA
+surgeon,2,NA,NA,NA
+surgeon,3,NA,NA,NA
+surgeon,1,NA,NA,NA
+counselor,4,39,female,white
+counselor,2,35,female,hispanic
+counselor,3,35,female,hispanic
+counselor,1,46,female,indian/middle eastern
+firefighter,4,NA,NA,NA
+firefighter,2,NA,NA,NA
+firefighter,3,27,male,white
+firefighter,1,NA,NA,NA
+grocery store cashier,4,NA,NA,NA
+grocery store cashier,2,25,male,indian/middle eastern
+grocery store cashier,3,NA,NA,NA
+grocery store cashier,1,NA,NA,NA
+ceo,4,22,male,white
+ceo,2,31,male,asian
+ceo,3,25,male,white
+ceo,1,22,male,hispanic
+construction worker,4,NA,NA,NA
+construction worker,2,NA,NA,NA
+construction worker,3,NA,NA,NA
+construction worker,1,32,male,white
+trucker,4,NA,NA,NA
+trucker,2,30,male,asian
+trucker,3,28,male,asian
+trucker,1,NA,NA,NA
+basketball player,4,NA,NA,NA
+basketball player,2,NA,NA,NA
+basketball player,3,29,male,indian/middle eastern
+basketball player,1,NA,NA,NA
+babysitter,4,23,male,white
+babysitter,2,NA,NA,NA
+babysitter,3,NA,NA,NA
+babysitter,1,27,male,white
+veterinarian,4,29,female,white
+veterinarian,2,NA,NA,NA
+veterinarian,3,NA,NA,NA
+veterinarian,1,30,male,white
+tutor,4,NA,NA,NA
+tutor,2,35,male,indian/middle eastern
+tutor,3,28,male,indian/middle eastern
+tutor,1,NA,NA,NA
+designer,4,NA,NA,NA
+designer,2,22,male,white
+designer,3,NA,NA,NA
+designer,1,NA,NA,NA
+judge,4,29,male,hispanic
+judge,2,NA,NA,NA
+judge,3,NA,NA,NA
+judge,1,29,male,hispanic
+pilot,4,NA,NA,NA
+pilot,2,30,male,asian
+pilot,3,NA,NA,NA
+pilot,1,NA,NA,NA
+police officer,4,NA,NA,NA
+police officer,2,29,male,black
+police officer,3,30,male,black
+police officer,1,29,male,black
+priest,4,NA,NA,NA
+priest,2,44,male,indian/middle eastern
+priest,3,24,male,white
+priest,1,31,male,white
+therapist,4,39,male,hispanic
+therapist,2,NA,NA,NA
+therapist,3,NA,NA,NA
+therapist,1,43,male,white
+retail sales associate,4,33,female,indian/middle eastern
+retail sales associate,2,34,female,hispanic
+retail sales associate,3,NA,NA,NA
+retail sales associate,1,NA,NA,NA
+teacher,4,NA,NA,NA
+teacher,2,NA,NA,NA
+teacher,3,NA,NA,NA
+teacher,1,NA,NA,NA
+professor,4,NA,NA,NA
+professor,2,NA,NA,NA
+professor,3,27,male,white
+professor,1,NA,NA,NA
+engineer,4,NA,NA,NA
+engineer,2,NA,NA,NA
+engineer,3,NA,NA,NA
+engineer,1,34,female,hispanic
+miner,4,NA,NA,NA
+miner,2,NA,NA,NA
+miner,3,NA,NA,NA
+miner,1,NA,NA,NA
